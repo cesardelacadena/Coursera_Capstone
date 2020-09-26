@@ -1,0 +1,4 @@
+Introduction 
+In order to reduce the frequency of car collisions in a location , an algorithm must be developed to predict the severity of an accident based on the current weather conditions, visibility conditions etc.
+In most of the scenarios, Accidents occurs due to irresponsible drivers who does not pay attention while driving or drive above speed limit or drunk and drive etc. Apart from the above-mentioned scenarios, weather, visibility and road conditions related accidents are the uncontrollable factors. So these factors can be predicted bases on a particular model/ algorithm.
+This model will alert drivers to remind them to be more careful based on the current weather conditions, visibility conditions.
