@@ -1,2 +1,1 @@
-# Coursera_Capstone
-Coursera_Capstone
+Coursera_Capstone Car accident severity
